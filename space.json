@@ -40,7 +40,7 @@
          "name":"background",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -100,7 +100,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":36,
          "x":0,
          "y":0
@@ -965,6 +965,15 @@
                         }]
                 }, 
                 {
+                 "id":73,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":80,
                  "properties":[
                         {
@@ -1001,6 +1010,24 @@
                         }]
                 }, 
                 {
+                 "id":89,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":100,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":112,
                  "properties":[
                         {
@@ -1011,6 +1038,24 @@
                 }, 
                 {
                  "id":113,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":116,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":120,
                  "properties":[
                         {
                          "name":"collides",
@@ -1047,6 +1092,15 @@
                 }, 
                 {
                  "id":133,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":136,
                  "properties":[
                         {
                          "name":"collides",
