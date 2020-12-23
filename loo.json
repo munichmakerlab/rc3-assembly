@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/tv.giphy.com\/egg"
+                 "value":"https:\/\/tv.giphy.com\/eggs"
                 }],
          "type":"tilelayer",
          "visible":true,
