@@ -247,7 +247,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"test.json#start_from_space"
+                 "value":"main.json#start_from_space"
                 }],
          "type":"tilelayer",
          "visible":true,
