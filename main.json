@@ -200,6 +200,12 @@
          "id":36,
          "name":"WorldExit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<lobby>\/erfas-south.json#start_mumalab}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":79,
