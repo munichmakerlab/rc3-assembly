@@ -204,7 +204,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_mumalab}"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_mumalab}"
                 }],
          "type":"tilelayer",
          "visible":true,
