@@ -502,7 +502,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mumalab.maps.at.rc3.world\/intro.html"
+                 "value":"https:\/\/munichmakerlab.github.io\/rc3-assembly\/intro.html"
                 }],
          "type":"tilelayer",
          "visible":true,
