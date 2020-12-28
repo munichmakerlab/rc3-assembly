@@ -502,7 +502,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wiki.munichmakerlab.de\/wiki\/RC3_Assembly"
+                 "value":"https:\/\/mumalab.maps.at.rc3.world\/intro.html"
                 }],
          "type":"tilelayer",
          "visible":true,
