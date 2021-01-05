@@ -1200,7 +1200,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"tilesets_deviant_milkian_2.png",
+         "image":"tiles/tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
